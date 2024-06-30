@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Frontend Web Developer / Freelancer</h3>
+<h3 align="center">Front-end Web Developer / Freelancer</h3>
 
 ###
 
